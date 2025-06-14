@@ -1,0 +1,35 @@
+# Compiled executables
+*.exe
+*.out
+*.app
+*.o
+*.obj
+
+# Debug files
+*.dSYM/
+*.pdb
+
+# Build directories
+build/
+debug/
+release/
+
+# IDE files
+.vscode/
+.idea/
+*.vcxproj*
+*.sln
+*.suo
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.swp
+*.swo
+
+# Input/output test files (optional - uncomment if needed)
+# input.txt
+# output.txt
