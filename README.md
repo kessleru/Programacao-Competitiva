@@ -137,7 +137,7 @@ Sinta-se à vontade para:
 - [Code Monk - HackerEarth](https://www.hackerearth.com/practice/codemonk/) - Tutoriais práticos
 
 ### Recursos Avançados
-- [CP-Algorithms](https://cp-algorithms.com/) - Algoritmos detalhados ([versão em português](https://cp-algorithms-brasil.com/))
+- [CP-Algorithms](https://cp-algorithms.com/) - Algoritmos detalhados
 - [Competitive Programming Handbook](https://cses.fi/book/book.pdf) - Livro completo e gratuito
 - [NOIC - Ideias e Técnicas](https://noic.com.br/materiais-informatica/ideias/) - Técnicas avançadas
 - [NOIC - Problemas da Semana](https://noic.com.br/materiais-informatica/problemas-da-semana/) - Problemas comentados
