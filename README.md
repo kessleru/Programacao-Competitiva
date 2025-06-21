@@ -1,6 +1,6 @@
 # 🏆 Competitive Programming Solutions
 
-Este repositório contém minhas soluções para problemas de programação competitiva das plataformas [Beecrowd](https://www.beecrowd.com.br/) (antigo URI Online Judge) e [Codeforces](https://codeforces.com/), desenvolvidas em C++.
+Este repositório contém minhas soluções para problemas de programação competitiva das plataformas [Beecrowd](https://www.beecrowd.com.br/) (antigo URI Online Judge), [Codeforces](https://codeforces.com/) e [LeetCode](https://leetcode.com/), desenvolvidas em C++ e Python.
 
 ## 📋 Sobre as Plataformas
 
@@ -9,6 +9,9 @@ O Beecrowd é uma plataforma brasileira de programação competitiva que oferece
 
 ### Codeforces
 O Codeforces é uma das principais plataformas internacionais de programação competitiva, oferecendo contests regulares e uma vasta biblioteca de problemas.
+
+### LeetCode
+O LeetCode é uma plataforma focada em preparação para entrevistas técnicas e desenvolvimento de habilidades algorítmicas, com problemas categorizados por dificuldade.
 
 Ambas as plataformas são excelentes para:
 - Praticar lógica de programação
@@ -34,6 +37,12 @@ Ambas as plataformas são excelentes para:
 |----------|---------|-----------|-----------|-------------|
 | [1353B](https://codeforces.com/problemset/problem/1353/B) | `Two-Arrays-And-Swaps.cpp` | Two Arrays And Swaps | Greedy, Sorting | 1200 |
 
+### Problemas LeetCode
+
+| Problema | Arquivo | Descrição | Categoria | Dificuldade |
+|----------|---------|-----------|-----------|-------------|
+| [557](https://leetcode.com/problems/reverse-words-in-a-string-iii/) | `557-Reverse-Words-in-a-String-III.py` | Reverse Words in a String III | String Manipulation | Easy |
+
 ### Algoritmos Implementados
 
 | Arquivo | Descrição | Complexidade |
@@ -41,56 +50,17 @@ Ambas as plataformas são excelentes para:
 | `Binary-Search.cpp` | Busca Binária | O(log n) |
 | `Bubble-Sort.cpp` | Ordenação por Bolha | O(n²) |
 
-## 🚀 Como Executar
 
-### Pré-requisitos
-
-- Compilador C++ (GCC, Clang, ou Visual Studio)
-- Sistema operacional Windows, Linux ou macOS
-
-### Configuração do Ambiente
-
-O projeto inclui configuração para Visual Studio Code:
-- Configuração de build através do GCC
-- Tarefas automatizadas para compilação
-
-### Compilação e Execução
-
-Para compilar qualquer solução, use o comando:
-
-```bash
-g++ -o programa nome_do_arquivo.cpp
-```
-
-Para executar:
-
-```bash
-# Windows
-./programa.exe
-
-# Linux/macOS
-./programa
-```
-
-### Exemplo prático:
-
-```bash
-g++ -o bhaskara 1036.cpp
-./bhaskara.exe
-```
-
-### No Visual Studio Code
-
-Use `Ctrl+Shift+P` e execute "Tasks: Run Build Task" ou use o atalho `Ctrl+Shift+B` para compilar o arquivo ativo.
 
 ## 📊 Estatísticas
 
-- **Total de problemas resolvidos:** 6
+- **Total de problemas resolvidos:** 7
   - **Beecrowd:** 5 problemas
   - **Codeforces:** 1 problema
-- **Linguagem principal:** C++
+  - **LeetCode:** 1 problema
+- **Linguagens utilizadas:** C++, Python
 - **Algoritmos implementados:** 2
-- **Categorias abordadas:** Matemática, Ordenação, Arrays, Greedy
+- **Categorias abordadas:** Matemática, Ordenação, Arrays, Greedy, String Manipulation
 
 ## 🎯 Objetivos
 
@@ -109,18 +79,13 @@ Sinta-se à vontade para:
 - Reportar bugs ou problemas
 - Adicionar comentários explicativos
 
-## 📝 Notas
-
-- Todas as soluções foram testadas e aceitas pelas respectivas plataformas
-- O código segue boas práticas de programação em C++
-- Comentários são adicionados quando necessário para explicar a lógica
-- Arquivos executáveis são gerenciados automaticamente pelo sistema de build
 
 ## 🔗 Links Úteis
 
 ### Plataformas de Prática
 - [Beecrowd](https://www.beecrowd.com.br/) - Plataforma brasileira com mais de 3.000 problemas
 - [Codeforces](https://codeforces.com/) - Contests internacionais e vasta biblioteca de problemas
+- [LeetCode](https://leetcode.com/) - Preparação para entrevistas técnicas e algoritmos
 - [Neps Academy](https://neps.academy/problems) - Problemas organizados por nível
 - [CSES Problem Set](https://cses.fi/problemset/list/) - Problemas bem estruturados
 - [CodeChef](https://www.codechef.com/contests) - Contests regulares
